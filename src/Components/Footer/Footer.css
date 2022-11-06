@@ -1,0 +1,25 @@
+.footer {
+  text-align: center;
+  color: var(--clr-primary);
+}
+
+.footerBox{
+  /* border: 3px solid var(--clr-primary); */
+  width: 50%;
+  margin: auto;
+  padding-bottom: 20px;
+  border-radius: 15px;
+  background-color: transparent;
+  padding: 20px;
+  height: auto;
+}
+ 
+
+@media (max-width: 600px) {
+  .footerBox{
+    /* border: 3px solid var(--clr-primary); */
+    width: 100%;
+    border-radius: 0px;
+    margin-bottom: 0px;
+  }
+}
