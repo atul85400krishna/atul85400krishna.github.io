@@ -35,7 +35,7 @@ export const About = () => {
             <GitHubIcon />
           </a>
           <a
-            href="https://mail.google.com/mail/u/0/?tab=rm#sent?compose=new"
+            href="mailto:atul85400krishna@gmail.com"
             target="_blank"
             rel="noreferrer"
             aria-label="mail"
