@@ -20,14 +20,24 @@ img{
   margin-right: 4px;
   
 }
-/* .fixde{
-  background-color: aqua; 
-    border: 5px solid red;  
-   position: fixed;
+.fixde{
+  /* background-color: aqua;  */
+    /* border: 5px solid red;   */
+   /* position: fixed;
+   z-index: 1;
   top: 0;
-  width: 45%;
+   width: 100%;
    overflow: hidden; 
    left: 0;
-  margin-bottom: 300px;  
+  margin-bottom: 300px;   */
+
+
+  overflow: hidden;
+  /* background-color: #333; */
+  position: fixed;
+  top: 0;
+  width: 100%;
+  /* bottom: 0; */
+  z-index: 1;
   
-} */
+} 
