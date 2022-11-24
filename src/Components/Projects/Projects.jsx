@@ -103,6 +103,7 @@ export const Projects = () => {
                   <SiHtml5 />
                   <DiCss3 />
                   <SiJavascript/>
+                  
                    
                 </div>
                 <div>
@@ -128,6 +129,112 @@ export const Projects = () => {
               </div>
             </div>
           </div>
+
+
+
+{/* 3nd */}
+
+
+<div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img
+                    src="https://cms.500.co/wp-content/uploads/2021/09/tripoto.jpg"
+                    alt="fit-meal"
+                  />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>“TRIPOTO”.</h2>
+                <p>“ Tripoto is a global community of travellers. It is the world's largest UGC- (user-generated content) based search portal on everything associated with travelling with a unique user base of 25 million+ people in the community.  
+                This is an artificially-intelligent chatbot designed by Tripoto that helps you to plan and finalise your trip from scratch.Tripoto is the one-stop social media platform for travellers.
+                 </p>
+                <div>
+                  <SiHtml5 />
+                  <DiCss3 />
+                  <SiJavascript/>
+                   < SiReact />
+                   <SiMongodb />
+                </div>
+                <div>
+                  <a
+                    href=" https://calm-daffodil-2603ba.netlify.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt onbt">
+                    Netlity Link
+                    </span>
+                  </a>
+                  <a
+                    href="https://github.com/atul85400krishna/wasteful-cast-8657/tree/main/tripoto"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                    Github Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+          {/* /* 4nd */ }
+
+
+<div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img
+                    src=" https://pbs.twimg.com/media/Fgu_YL0VsAE7EhO?format=jpg&name=small"
+                    alt="fit-meal"
+                  />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>“Licious”.</h2>
+                <p>“Licious, owned by Delightful Gourmet Pvt Ltd., was founded in July 2015 by Abhay Hanjura and Vivek Gupta and officially launched in October of the same year.</p>
+                <div>
+                  <SiHtml5 />
+                  <DiCss3 />
+                  <SiJavascript/>
+                   < SiReact />
+                   {/* <SiMongodb /> */}
+                </div>
+                <div>
+                  <a
+                    href=" https://frolicking-faun-cefbac.netlify.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt onbt">
+                    Netlity Link
+                    </span>
+                  </a>
+                  <a
+                    href="https://github.com/atul85400krishna/concerned-angle-3494/tree/fp03_307_day-2/src"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                    Github Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+        
+
+
+        
 
 
           

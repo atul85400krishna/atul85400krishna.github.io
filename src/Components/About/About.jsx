@@ -7,7 +7,7 @@ import EmailIcon from "@material-ui/icons/Email";
 import PhoneIcon from "@material-ui/icons/Phone";
 import TwitterIcon from "@material-ui/icons/Twitter";
 import DescriptionIcon from "@material-ui/icons/Description";
- 
+import cv from "../../assets/Atul_Krishna_Resume.pdf"
 import { Introduction } from "./Introduction";
 import { Timeline } from "./Timeline";
 import { Techstacks } from "./Techstacks";
@@ -64,16 +64,20 @@ export const About = () => {
            
         </div>
 
-        <button
-          className="btnResume"
-          onClick={() => {
-            window.open(
-              "https://drive.google.com/file/d/1GbvdNI3AJsaBD8I8T15xZkL5G-calvg7/view?usp=sharing"
-            );
-          }}
-        >
-          Resume
-        </button>
+         
+
+<a href={cv} download>
+                {' '}
+                <button
+                  className="btnResume"
+                  onClick={() => {
+                    window.open(cv);
+                  }}
+                >
+                  {' '}
+                  Download Resume{' '}
+                </button>
+               </a>
       </div>
       <Introduction />
        
