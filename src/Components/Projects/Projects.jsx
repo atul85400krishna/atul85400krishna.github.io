@@ -87,7 +87,7 @@ export const Projects = () => {
               <div className="project_videocontainer">
                 <div>
                   <img
-                    src="https://github.com/manojattri181/Fit-meal-website-clone/blob/master/home2.JPG?raw=true"
+                    src=" https://b.zmtcdn.com/data/pictures/chains/0/18595770/1eb215b7b5f485af7f8aa141561fdad8.jpg"
                     alt="fit-meal"
                   />
                 </div>
@@ -233,8 +233,52 @@ export const Projects = () => {
 
         
 
-
-        
+          {/* <div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img
+                    src="https://cms.500.co/wp-content/uploads/2021/09/tripoto.jpg"
+                    alt="fit-meal"
+                  />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>“TRIPOTO”.</h2>
+                <p>“ Tripoto is a global community of travellers. It is the world's largest UGC- (user-generated content) based search portal on everything associated with travelling with a unique user base of 25 million+ people in the community.  
+                This is an artificially-intelligent chatbot designed by Tripoto that helps you to plan and finalise your trip from scratch.Tripoto is the one-stop social media platform for travellers.
+                 </p>
+                <div>
+                  <SiHtml5 />
+                  <DiCss3 />
+                  <SiJavascript/>
+                   < SiReact />
+                   <SiMongodb />
+                </div>
+                <div>
+                  <a
+                    href=" https://calm-daffodil-2603ba.netlify.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt onbt">
+                    Netlity Link
+                    </span>
+                  </a>
+                  <a
+                    href="https://github.com/atul85400krishna/wasteful-cast-8657/tree/main/tripoto"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                    Github Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+         */}
 
 
           
