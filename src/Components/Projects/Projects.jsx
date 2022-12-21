@@ -87,7 +87,7 @@ export const Projects = () => {
               <div className="project_videocontainer">
                 <div>
                   <img
-                    src=" https://b.zmtcdn.com/data/pictures/chains/0/18595770/1eb215b7b5f485af7f8aa141561fdad8.jpg"
+                    src="https://b.zmtcdn.com/data/pictures/chains/0/18595770/1eb215b7b5f485af7f8aa141561fdad8.jpg"
                     alt="fit-meal"
                   />
                 </div>
